@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">practica</string>
+    <string name="tvVersionAndroidLB">1. Versión Android: </string>
+    <string name="tvVersionAndroid"></string>
+    <string name="tvLight">2. FlashLight: </string>
+    <string name="btnOn">ON</string>
+    <string name="btnOff">OFF</string>
+    <string name="tvLevelBatteryLB">3. Level of Battery</string>
+    <string name="pbLevelBattery"></string>
+    <string name="tvStorageLB">4. Storage</string>
+    <string name="etNameFile">Name of File</string>
+    <string name="btnSaveFile">Save</string>
+    <string name="tvConectionLB">5. Connection: </string>
+    <string name="tvConection"></string>
+    <string name="tvBluetooth">6. Bluetooth</string>
+    <string name="btnBluetooth">Buetooth ON/OFF</string>
+</resources>
