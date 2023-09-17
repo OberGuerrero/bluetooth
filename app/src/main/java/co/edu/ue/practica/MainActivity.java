@@ -29,6 +29,7 @@ import android.bluetooth.BluetoothManager;
 import android.widget.Toast;
 import android.Manifest;
 
+
 public class MainActivity extends AppCompatActivity {
 
     private Context context;
